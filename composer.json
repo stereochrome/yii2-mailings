@@ -2,11 +2,11 @@
   "name": "stereochrome/yii2-mailings",
   "description": "a component for system mailings",
   "require": {
-		"yiisoft/yii2": "~2.0.0",
-    },
-	"autoload": {
-		"psr-4": {
-			"stereochrome\\mailings\\": "src",
-		}
-	}
+    "yiisoft/yii2": "~2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "stereochrome\\mailings\\": "src"
+    }
+  }
 }
